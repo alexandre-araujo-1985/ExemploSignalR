@@ -5,3 +5,5 @@ O SignalR pode ser usado para adicionar qualquer tipo de funcionalidade da Web "
 O SignalR também permite tipos completamente novos de aplicativos Web que exigem atualizações de alta frequência do servidor, por exemplo, jogos em tempo real.
 
 O SignalR fornece uma API simples para criar RPC (chamadas de procedimento remoto) de servidor para cliente que chamam funções JavaScript em navegadores cliente (e outras plataformas de cliente) do código .NET do lado do servidor. O SignalR também inclui a API para gerenciamento de conexões (por exemplo, eventos de conexão e desconexão) e conexões de agrupamento.
+
+![image](https://github.com/alexandre-araujo-1985/ExemploSignalR/assets/172829946/9bf36af2-f2ce-4fa5-aa89-b5c193a904b9)
